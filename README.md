@@ -7,7 +7,7 @@
 <div>
 <a href="https://github.com/jonathanjoni">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanjoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanjoni&layout=compact&langs_count=8&theme=dracula&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanjoni&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </div>
 
